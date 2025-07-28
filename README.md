@@ -61,7 +61,7 @@ E. Using symbolic constants
 
 ----------------------------------------------------------------------
  
-Wk 5,6x
+Wk 5,6
 IV. Basic Programming Syntax
 
 A. Performing data transfers
@@ -72,8 +72,7 @@ C. Performing data related operations
 
 ----------------------------------------------------------------------
 
-Wk 7, 8 hw3
-
+Wk 7,8 
 V. How Subroutines are Placed in Procedures
 
 A. How stack operations work
@@ -111,3 +110,84 @@ C. Using conditional processing to mimic conventional IF and WHILE branching
 D. .REPEAT and .WILE directives
 
 ----------------------------------------------------------------------
+
+Wk 10
+VII. Performing Arithmetic Operations
+
+A. How and why to use shift and rotate
+
+B. Multiplication and over ow
+
+C. Division and remainder
+
+D. Expanding simple addition with the carry instruction
+
+E. Expanding simple subtraction with the borrow instruction
+
+F. Arithmetic operations on decimal variables
+
+----------------------------------------------------------------------
+
+Wk 11,12 
+
+VIII. Working with strings and Arrays
+
+A. Defining strings and arrays
+
+B. Using primitive string instructions
+
+C. Building procedures that use strings
+
+D. Operations on 2-dimensional arrays
+
+E. How to build searching and sorting routines
+
+----------------------------------------------------------------------
+
+
+Wk 13, 14
+IX. Using advanced constructs
+
+A. How structures differ in assembler
+
+B. Placing code in macros
+
+C. Shortcuts using conditional-assembly directives
+1. .IF .ELSE
+2. .WHILE
+3. .FOR
+  
+
+----------------------------------------------------------------------
+
+wk 15 
+X. Integrating Assembler into Windows Programming
+
+A. Creating Win32 Console programs
+
+B. Creating graphical windows applications
+
+C. Memory management and dynamic memory allocation
+
+D. Inserting assembler with inline code
+
+E. Building an object file in assembler
+
+----------------------------------------------------------------------
+
+
+Wk 16, 17
+XI. Generating Assembler for the Co-processor
+A. Understanding floating-point architecture
+
+1. Binary representation
+2. Floating-point stack
+3. Unique registers and flags
+
+B. Familiarization with the floating-point instruction set
+
+1. Mixed mode assembler code
+2. Arithmetic operations
+3. Precision data types
+4. Trigonometric functions
+
