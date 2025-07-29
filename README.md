@@ -1,5 +1,7 @@
 # Assembly_Language
 
+ YouTube Playlist: https://youtube.com/playlist?list=PLuGb0-rQ2tEwjdU9n39A21MR2CgJhckEe&si=9xec6u5pn0qHkhGw
+ 
 * Homework
   *  Will be sent as Google Drive links through announcements in Canvas.
   *  Should be submitted through Canvas Homework tab once complete.
