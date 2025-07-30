@@ -1,6 +1,6 @@
 # Assembly_Language
 
- YouTube Playlist: https://youtube.com/playlist?list=PLuGb0-rQ2tEwjdU9n39A21MR2CgJhckEe&si=9xec6u5pn0qHkhGw
+[YouTube Playlist](https://youtube.com/playlist?list=PLuGb0-rQ2tEwjdU9n39A21MR2CgJhckEe&si=9xec6u5pn0qHkhGw)
  
 * Homework
   *  Will be sent as Google Drive links through announcements in Canvas.
@@ -13,7 +13,9 @@
 ----------------------------------------------------------------------
 ## Course Contents:
 ----------------------------------------------------------------------
+
 Wk 1
+
 I. Basic Concepts of Assembly Language
 
  A. Why learn assembly language
@@ -27,7 +29,9 @@ I. Basic Concepts of Assembly Language
   3. Boolean functions
    
 ----------------------------------------------------------------------
+
 Wk 2
+
 II. x86 Processor Architecture
 
 A. How the instruction execution cycle works
@@ -38,8 +42,10 @@ C. How registers and flags manage memory
 
 D. How the floating point unit performs mathematical functions
 
-----------------------------------------------------------------------
-Wk 3,4
+---------------------------------------------------------------------- 
+
+Wk 3, 4
+
 III. Fundamentals of Assembly Language
 
 A. How to declare literals and constants
@@ -63,7 +69,8 @@ E. Using symbolic constants
 
 ----------------------------------------------------------------------
  
-Wk 5,6
+Wk 5, 6
+
 IV. Basic Programming Syntax
 
 A. Performing data transfers
@@ -74,7 +81,8 @@ C. Performing data related operations
 
 ----------------------------------------------------------------------
 
-Wk 7,8 
+Wk 7, 8 
+
 V. How Subroutines are Placed in Procedures
 
 A. How stack operations work
@@ -101,6 +109,7 @@ E. How to force branching with jumps and loop
 ----------------------------------------------------------------------
 
 Wk 9
+
 VI. How to Perform Conditional Processing
 
 A. Comparison instructions create Boolean results
@@ -114,6 +123,7 @@ D. .REPEAT and .WILE directives
 ----------------------------------------------------------------------
 
 Wk 10
+
 VII. Performing Arithmetic Operations
 
 A. How and why to use shift and rotate
@@ -130,7 +140,7 @@ F. Arithmetic operations on decimal variables
 
 ----------------------------------------------------------------------
 
-Wk 11,12 
+Wk 11, 12 
 
 VIII. Working with strings and Arrays
 
@@ -148,6 +158,7 @@ E. How to build searching and sorting routines
 
 
 Wk 13, 14
+
 IX. Using advanced constructs
 
 A. How structures differ in assembler
@@ -162,7 +173,8 @@ C. Shortcuts using conditional-assembly directives
 
 ----------------------------------------------------------------------
 
-wk 15 
+Wk 15 
+
 X. Integrating Assembler into Windows Programming
 
 A. Creating Win32 Console programs
