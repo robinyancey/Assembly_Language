@@ -1,0 +1,32 @@
+I. Basic Concepts of Assembly Language  
+This section provides the basics for understanding assembly language. It explains why assembly language is still important today, especially for low-level computing tasks. You’ll learn how computers represent data using binary and how Boolean logic influences decision-making in machines.  
+
+II. x86 Processor Architecture  
+Get to know how the x86 CPU works. This section shows you how instructions are executed, the different operating modes, the roles of registers and flags, and the floating-point unit's role in carrying out mathematical operations.  
+
+III. Fundamentals of Assembly Language  
+Here, you’ll start writing your first assembly programs. You will learn how to declare constants, understand the four parts of a typical instruction, and get introduced to data types, symbolic constants, and how memory ordering (Little-Endian versus Big-Endian) works in x86.  
+
+IV. Basic Programming Syntax  
+This section improves your ability to write functional programs. You’ll learn how to move and manipulate data, carry out arithmetic, use indirect addressing, and control the program flow with jumps and loops.  
+
+V. How Subroutines are Placed in Procedures  
+Learn how to write reusable code using procedures. You’ll see how the stack saves registers and passes parameters, how procedures are structured, and how assembly handles recursion. Special tools like INVOKE will be introduced for efficiently calling procedures.  
+
+VI. How to Perform Conditional Processing  
+Conditional logic in assembly mimics the decision-making found in high-level languages. This section explains how comparison instructions work, how to jump based on conditions, and how to use special directives like .REPEAT and .WHILE.  
+
+VII. Performing Arithmetic Operations  
+Explore advanced arithmetic operations, including bit shifting, multiplication, division, and dealing with overflow and underflow. You’ll also learn to extend basic operations using carry and borrow and manipulate decimal values.  
+
+VIII. Working with Strings and Arrays  
+Learn how to define and work with strings and arrays in assembly. This section teaches you to use string instructions, create procedures for string handling, and perform operations on multi-dimensional arrays like searching and sorting.  
+
+IX. Using Advanced Constructs  
+Increase your productivity with more advanced coding techniques. You'll learn how to structure data with macros, use conditional-assembly directives to cut down on code repetition, and make your programs more dynamic with control constructs like .IF, .WHILE, and .FOR.  
+
+X. Integrating Assembler into Windows Programming  
+Discover how assembly fits into modern software development. This section guides you through creating Windows console and graphical applications, managing memory, inserting inline assembly in other languages, and compiling object files.  
+
+XI. Generating Assembler for the Co-processor  
+Dive into floating-point operations and co-processor capabilities. You’ll understand the architecture of floating-point units, use their instruction sets, handle precision data types, and carry out scientific operations like trigonometric functions within mixed-mode code.  
