@@ -1,6 +1,6 @@
 I. Basic Concepts of Assembly Language  
 This section provides the basics for understanding assembly language. It explains why assembly language is still important today, especially for low-level computing tasks. You’ll learn how computers represent data using binary and how Boolean logic influences decision-making in machines.  
-________________________________________
+
 II. x86 Processor Architecture  
 Get to know how the x86 CPU works. This section shows you how instructions are executed, the different operating modes, the roles of registers and flags, and the floating-point unit's role in carrying out mathematical operations.  
 
