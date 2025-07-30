@@ -191,7 +191,9 @@ E. Building an object file in assembler
 
 
 Wk 16, 17
+
 XI. Generating Assembler for the Co-processor
+
 A. Understanding floating-point architecture
 
 1. Binary representation
