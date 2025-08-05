@@ -9,7 +9,10 @@
 * Text or email questions anytime.
   * reyancey@ucdavis.edu, 916-397-5878, or through Canvas.
 
-
+Course Grading Weights
+4 Assignments (20% each)	80%
+Final	20%
+TOTAL	100%
 ----------------------------------------------------------------------
 ## Course Contents:
 ----------------------------------------------------------------------
