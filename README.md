@@ -6,7 +6,7 @@
   *  Will be sent as Google Drive links through announcements in Canvas.
   *  Should be submitted through Canvas Homework tab once complete.
 
-* Text or email questions anytime (I respond quick).
+* Text or email questions anytime, (I respond quick).
 
 Course Grading Weights
 4 Assignments (20% each)	80%
